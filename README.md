@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://github.com/Aishwarya7S/Aishwarya7S/blob/main/Github%20Banner.jpeg" alt="logo">
+</div>
 <h1 align="center">Hi 👋, I'm Aishwarya Senthilkumar</h1>
 <h3 align="center">An enthusiastic beginner in full-stack development, eager to learn, grow, and build innovative applications</h3>
 
