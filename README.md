@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Aishwarya7S/Aishwarya7S/blob/4cc537d33cc236b578ff033654b7ebb9c08fbc6d/Github_img.jpg" alt="logo">
+  <img src="https://github.com/Aishwarya7S/Aishwarya7S/blob/82f9fe2d4983b71cefe29297d688716492670116/Github_pic.jpeg" alt="logo">
 </div>
 <h1 align="center">Hi 👋, I'm Aishwarya Senthilkumar</h1>
 <h3 align="center">An enthusiastic beginner in full-stack development, eager to learn, grow, and build innovative applications</h3>
