@@ -11,7 +11,7 @@ Hi 👋, I'm Aishwarya Senthilkumar<br><br>
 
 💻 B.E. in Computer Science and Engineering @ Vivekanandha College of Engineering for Women<br>
 📚 I’m currently learning and practicing Java and Python<br>
-📫 How to reach me: s.aishwaryask@gmail.com
+📩 Connect with me: s.aishwaryask@gmail.com
 
 
 ## 🌐 Socials:
