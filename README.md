@@ -9,7 +9,8 @@ Hi 👋, I'm Aishwarya Senthilkumar<br><br>
   An enthusiastic developer, eager to learn, grow and build impactful and innovative applications in the field of software development.<br>
 </p>
 
-💻 B.E. in Computer Science and Engineering @ Vivekanandha College of Engineering for Women<br>📚 I’m currently learning and practicing Java and Python<br>
+💻 B.E. in Computer Science and Engineering @ Vivekanandha College of Engineering for Women<br>
+📚 I’m currently learning and practicing Java and Python<br>
 📫 How to reach me: s.aishwaryask@gmail.com
 
 
@@ -32,18 +33,19 @@ Hi 👋, I'm Aishwarya Senthilkumar<br><br>
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 # 📊 GitHub Stats:
-<div style="display: flex; justify-content: center; gap: 20px; max-width: 700px; margin: auto;">
+<div style="display: flex; justify-content: space-between; gap: 20px; max-width: 700px; margin: auto;">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Aishwarya7S&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false" 
     alt="GitHub Stats" 
-    style="flex: 1; width: 50%; height: 60%;"
+    style="width: 49%; height: 200px; object-fit: cover; display: inline-block;"
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishwarya7S&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" 
     alt="Top Languages" 
-    style="flex: 1; width: 48%; height: 30%;"
+    style="width: 49%; height: 200px; object-fit: cover; display: inline-block;"
   />
 </div>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
